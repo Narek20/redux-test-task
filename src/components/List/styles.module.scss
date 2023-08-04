@@ -1,0 +1,13 @@
+.list {
+  flex: 5;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+
+  .catContainer {
+    .img {
+      width: 200px;
+      height: 200px;
+    }
+  }
+}
